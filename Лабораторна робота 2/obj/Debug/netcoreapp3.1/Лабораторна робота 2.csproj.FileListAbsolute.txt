@@ -1,0 +1,14 @@
+E:\Me\GT\Лабораторна робота 2\bin\Debug\netcoreapp3.1\Лабораторна робота 2.exe
+E:\Me\GT\Лабораторна робота 2\bin\Debug\netcoreapp3.1\Лабораторна робота 2.deps.json
+E:\Me\GT\Лабораторна робота 2\bin\Debug\netcoreapp3.1\Лабораторна робота 2.runtimeconfig.json
+E:\Me\GT\Лабораторна робота 2\bin\Debug\netcoreapp3.1\Лабораторна робота 2.runtimeconfig.dev.json
+E:\Me\GT\Лабораторна робота 2\bin\Debug\netcoreapp3.1\Лабораторна робота 2.dll
+E:\Me\GT\Лабораторна робота 2\bin\Debug\netcoreapp3.1\Лабораторна робота 2.pdb
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.csproj.AssemblyReference.cache
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.AssemblyInfoInputs.cache
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.AssemblyInfo.cs
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.csproj.CoreCompileInputs.cache
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.dll
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.pdb
+E:\Me\GT\Лабораторна робота 2\obj\Debug\netcoreapp3.1\Лабораторна робота 2.genruntimeconfig.cache
