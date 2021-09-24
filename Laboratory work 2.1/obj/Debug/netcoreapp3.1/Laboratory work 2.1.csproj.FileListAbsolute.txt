@@ -1,0 +1,14 @@
+E:\Me\GT\Laboratory work 2.1\bin\Debug\netcoreapp3.1\Laboratory work 2.1.exe
+E:\Me\GT\Laboratory work 2.1\bin\Debug\netcoreapp3.1\Laboratory work 2.1.deps.json
+E:\Me\GT\Laboratory work 2.1\bin\Debug\netcoreapp3.1\Laboratory work 2.1.runtimeconfig.json
+E:\Me\GT\Laboratory work 2.1\bin\Debug\netcoreapp3.1\Laboratory work 2.1.runtimeconfig.dev.json
+E:\Me\GT\Laboratory work 2.1\bin\Debug\netcoreapp3.1\Laboratory work 2.1.dll
+E:\Me\GT\Laboratory work 2.1\bin\Debug\netcoreapp3.1\Laboratory work 2.1.pdb
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.csproj.AssemblyReference.cache
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.AssemblyInfoInputs.cache
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.AssemblyInfo.cs
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.csproj.CoreCompileInputs.cache
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.dll
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.pdb
+E:\Me\GT\Laboratory work 2.1\obj\Debug\netcoreapp3.1\Laboratory work 2.1.genruntimeconfig.cache
