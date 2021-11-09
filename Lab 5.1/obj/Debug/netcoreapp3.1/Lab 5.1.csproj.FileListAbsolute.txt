@@ -1,0 +1,14 @@
+E:\Me\GT\Lab 5.1\bin\Debug\netcoreapp3.1\Lab 5.1.exe
+E:\Me\GT\Lab 5.1\bin\Debug\netcoreapp3.1\Lab 5.1.deps.json
+E:\Me\GT\Lab 5.1\bin\Debug\netcoreapp3.1\Lab 5.1.runtimeconfig.json
+E:\Me\GT\Lab 5.1\bin\Debug\netcoreapp3.1\Lab 5.1.runtimeconfig.dev.json
+E:\Me\GT\Lab 5.1\bin\Debug\netcoreapp3.1\Lab 5.1.dll
+E:\Me\GT\Lab 5.1\bin\Debug\netcoreapp3.1\Lab 5.1.pdb
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.csproj.AssemblyReference.cache
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.AssemblyInfoInputs.cache
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.AssemblyInfo.cs
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.csproj.CoreCompileInputs.cache
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.dll
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.pdb
+E:\Me\GT\Lab 5.1\obj\Debug\netcoreapp3.1\Lab 5.1.genruntimeconfig.cache
