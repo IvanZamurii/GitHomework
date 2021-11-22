@@ -1,0 +1,5 @@
+E:\Me\GT\Lab 6.1\obj\Debug\netcoreapp3.1\Lab 6.1.csproj.AssemblyReference.cache
+E:\Me\GT\Lab 6.1\obj\Debug\netcoreapp3.1\Lab 6.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Me\GT\Lab 6.1\obj\Debug\netcoreapp3.1\Lab 6.1.AssemblyInfoInputs.cache
+E:\Me\GT\Lab 6.1\obj\Debug\netcoreapp3.1\Lab 6.1.AssemblyInfo.cs
+E:\Me\GT\Lab 6.1\obj\Debug\netcoreapp3.1\Lab 6.1.csproj.CoreCompileInputs.cache
